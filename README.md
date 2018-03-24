@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" style>
-#shadow-root (open) == $0
-  
 ## Welcome to GitHub Pages
 
   
