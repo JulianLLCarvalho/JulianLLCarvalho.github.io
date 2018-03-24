@@ -20,6 +20,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Contact Information
 
-Email: jcarv426@mtoryal.ca
+Email: jcarv426@mtroyal.ca
 
 Cell: 4036905856
